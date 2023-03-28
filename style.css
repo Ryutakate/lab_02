@@ -1,0 +1,133 @@
+.table{
+    border-collapse: collapse;
+    width: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+.table th{
+padding:  5px 10px;
+border: 1px solid #6395ff;
+
+}
+
+.table td{
+    padding: 5px 10px;
+    border: 1px solid #6395ff;
+   
+}
+
+
+.table thead{
+    background-color: #dae1f8;
+}
+
+.table tfoot{
+    background-color: #5776b1;
+    color:#fff;
+    text-align: right;
+   
+}
+
+
+
+
+.table2{
+    border-collapse: collapse;
+  
+}
+
+.table2 thead{
+    height:50px;
+
+}
+
+.table2 tbody td{
+
+}
+
+.table2 thead th{
+    border: 3px solid black;
+    font-size: 13px;
+   font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.table2 tbody tr{
+    
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bT{
+  font-size: 15px;
+    margin: 0;
+    border-top: 3px solid black;
+    padding-top: 4px ;
+}
+
+.vuk{
+    width: 170px;
+}
+
+pre{
+    margin: 1;
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight:normal;
+}
+
+.par{
+    font-size: 8px;
+    font-weight:bold;
+
+}
+
+.centerTe{
+    text-align: center;
+
+}
+
+.topte{
+height: 40px;
+text-align: left;
+font-size: 12px;
+font-weight:bold;
+}
+
+.beck1{
+    background-color: #D9E1F2;
+
+}
+
+.beck2{
+    background-color:#E2EFDA;
+}
+
+.numB{
+    padding-top: 25px;
+    text-align: center;
+}
+
+.num{
+    border-bottom: 1px solid black;
+    border-right: 3px solid black;
+}
+
+.bod{
+    border-bottom: 3px solid black;
+}
+
+.bob2{
+    border-bottom: 1px solid black;
+}
+
+.bob3{
+    border-left: 3px solid black;
+    border-right: 1px dashed black;
+}
+
+.bob4{
+    border-right: 3px solid black;
+    border-bottom: 1px solid black;
+}
